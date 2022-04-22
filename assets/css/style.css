@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: #0e0e0e;
+}
+
+.container {
+    width: 550pxpx;
+}
+
+
+.menu {
+    background-color: #0e0e0e;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav li {
+    padding: 15px;
+}
+
+.menu a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #A6936F;
+    display: inline-block;
+}
+
+a:hover {
+    color: white;
+}
+
+
+
+
+
+
+
